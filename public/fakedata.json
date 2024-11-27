@@ -1,0 +1,93 @@
+[
+   {
+     "id": 1,
+     "name": "Wireless Earbuds",
+     "photo": "https://i.ibb.co.com/C7xv5j0/brackfarst-1.jpg",
+     "category": "Brackfast",
+     "details": "High-quality wireless earbuds with noise cancellation.",
+     "discount": "15%",
+     "price": 49.99
+   },
+   {
+     "id": 2,
+     "name": "Gaming Chair",
+     "photo": "https://i.ibb.co.com/dbPhcP6/brackfarst-2.jpg",
+     "category": "Brackfast",
+     "details": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+     "discount": "20%",
+     "price": 199.99
+   },
+   {
+     "id": 3,
+     "name": "Smart Watch",
+     "photo": "https://i.ibb.co.com/jyxHG9d/brackfarst-3.jpg",
+     "category": "Brackfast",
+     "details": "Waterproof smartwatch with heart rate monitor and GPS.",
+     "discount": "10%",
+     "price": 129.99
+   },
+   {
+     "id": 4,
+     "name": "Leather Handbag",
+     "photo": "https://i.ibb.co.com/W0rJLbZ/brackfarst-4.jpgg",
+     "category": "Brackfast",
+     "details": "Stylish leather handbag with multiple compartments.",
+     "discount": "25%",
+     "price": 74.99
+   },
+   {
+     "id": 5,
+     "name": "Yoga Mat",
+     "photo": "https://i.ibb.co.com/BjSYKxS/lunch-3.jpg",
+     "category": "Lunch",
+     "details": "Non-slip yoga mat made from eco-friendly material.",
+     "discount": "30%",
+     "price": 19.99
+   },
+   {
+     "id": 6,
+     "name": "4K TV",
+     "photo": "https://i.ibb.co.com/jbD58mw/lunch-2.jpg",
+     "category": "Lunch",
+     "details": "55-inch 4K Ultra HD Smart TV with built-in apps.",
+     "discount": "15%",
+     "price": 499.99
+   },
+   {
+     "id": 7,
+     "name": "Running Shoes",
+     "photo": "https://i.ibb.co.com/6sQJq7J/lunch-1.jpg",
+     "category": "Lunch",
+     "details": "Lightweight running shoes with breathable fabric.",
+     "discount": "20%",
+     "price": 59.99
+   },
+   {
+     "id": 8,
+     "name": "Electric Kettle",
+     "photo": "https://i.ibb.co.com/s5Bk6K9/dinner-3.jpg",
+     "category": "Dinner",
+     "details": "Fast-boiling electric kettle with auto shut-off feature.",
+     "discount": "10%",
+     "price": 29.99
+   },
+   {
+     "id": 9,
+     "name": "Backpack",
+     "photo": "https://i.ibb.co.com/S7xPxjw/dinner-2.jpg",
+     "category": "Dinner",
+     "details": "Durable backpack with multiple compartments for travel.",
+     "discount": "15%",
+     "price": 39.99
+   },
+   {
+     "id": 10,
+     "name": "Blender",
+     "photo": "https://i.ibb.co.com/hL0kFMj/dinner-1.jpg",
+     "category": "Dinner",
+     "details": "High-speed blender for smoothies and soups.",
+     "discount": "25%",
+     "price": 89.99
+   }
+ ]
+ 
